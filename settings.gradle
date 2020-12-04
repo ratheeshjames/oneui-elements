@@ -1,0 +1,3 @@
+include ':components'
+include ':app'
+rootProject.name = "One UI"
